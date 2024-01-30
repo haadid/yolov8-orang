@@ -1,0 +1,10 @@
+data/obj_Validation_data/WIN_20240130_00_20_23_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_20_35_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_20_53_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_21_08_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_21_29_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_21_42_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_21_55_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_22_31_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_22_58_Pro.jpg
+data/obj_Validation_data/WIN_20240130_00_23_18_Pro.jpg
